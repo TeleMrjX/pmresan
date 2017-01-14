@@ -1,3 +1,4 @@
-# LammerBot
-
-Coded BY <a href="https://telegram.me/Mrlammer">Mr.Lammer</a>
+# ShayanSoftBot
+Open By @LammerTeam
+# Telegram Channel 
+@LammerTeam
