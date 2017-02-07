@@ -1,9 +1,9 @@
-bot_token = "262465817:AAF-T-gYde6iiomiVFAqbScxfRcJfuUHpoc"
+bot_token = "347284457:AAEsEdwqxyz7QAvX2FGJW-oXcNf5pm2a0hM"
 send_api = "https://api.telegram.org/bot"..bot_token
-bot_version = "1.0"
-sudo_name = "Mahdy"
-sudo_id = 115442858
-admingp = -174235550
-sudo_num = "989114762219"
-sudo_user = "MrLammer"
-sudo_ch = "LammerTeam"
+bot_version = "2.0"
+sudo_name = "MohammadReza"
+sudo_id = 193156389
+admingp = -184173759
+sudo_num = "989154874731"
+sudo_user = "Reload"
+sudo_ch = "ReloadProject"
